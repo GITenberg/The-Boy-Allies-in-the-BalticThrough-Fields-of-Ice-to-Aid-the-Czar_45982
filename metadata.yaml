@@ -1,0 +1,30 @@
+_repo: The-Boy-Allies-in-the-BalticThrough-Fields-of-Ice-to-Aid-the-Czar_45982
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45982-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hayes, Clair W. (Clair Wallace)
+    aliases:
+    - Drake, Robert L.
+    - Hayes, Clair Wallace
+    birthdate: 1887
+    gutenberg_agent_id: '1939'
+    url: http://www.gutenberg.org/2009/agents/1939
+description: ''
+gutenberg_issued: '2014-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45982'
+  lccn: '86188357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Baltic Sea -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Boy Allies in the Baltic; Or, Through Fields of Ice to Aid the Czar
+url: http://www.gutenberg.org/ebooks/45982
