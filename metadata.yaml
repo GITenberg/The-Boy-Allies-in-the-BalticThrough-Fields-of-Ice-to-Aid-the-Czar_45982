@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '1939'
     url: http://www.gutenberg.org/2009/agents/1939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45982#The-Boy-Allies-in-the-BalticThrough-Fields-of-Ice-to-Aid-the-Czar
 gutenberg_issued: '2014-06-15'
 gutenberg_type: Text
 identifiers:
